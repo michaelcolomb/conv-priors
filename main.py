@@ -9,7 +9,7 @@ from gp_conv import GPConv
 
 
 ########
-
+#From: https://github.com/pytorch/examples/blob/master/mnist/main.py
 ########
 
 
